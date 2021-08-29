@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.3171e4a1.chunk.css",
+    "main.js": "/portfolio/static/js/main.b8a67ac7.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b8a67ac7.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.5483d5da.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.5483d5da.js.map",
+    "static/js/2.111706bc.chunk.js": "/portfolio/static/js/2.111706bc.chunk.js",
+    "static/js/2.111706bc.chunk.js.map": "/portfolio/static/js/2.111706bc.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.3171e4a1.chunk.css.map": "/portfolio/static/css/main.3171e4a1.chunk.css.map",
+    "static/js/2.111706bc.chunk.js.LICENSE.txt": "/portfolio/static/js/2.111706bc.chunk.js.LICENSE.txt",
+    "static/media/about_anime.986764c2.gif": "/portfolio/static/media/about_anime.986764c2.gif",
+    "static/media/about_vector.c42fe3db.png": "/portfolio/static/media/about_vector.c42fe3db.png",
+    "static/media/aws.173b1ca6.png": "/portfolio/static/media/aws.173b1ca6.png",
+    "static/media/contact_anime.1f3936c4.png": "/portfolio/static/media/contact_anime.1f3936c4.png",
+    "static/media/css.c8b2442c.png": "/portfolio/static/media/css.c8b2442c.png",
+    "static/media/github.80d249a5.png": "/portfolio/static/media/github.80d249a5.png",
+    "static/media/home_anime.f372ef86.gif": "/portfolio/static/media/home_anime.f372ef86.gif",
+    "static/media/html.854e5168.png": "/portfolio/static/media/html.854e5168.png",
+    "static/media/java.17f21f4b.png": "/portfolio/static/media/java.17f21f4b.png",
+    "static/media/jenkins.c5b54038.png": "/portfolio/static/media/jenkins.c5b54038.png",
+    "static/media/proj1.8e51cf49.png": "/portfolio/static/media/proj1.8e51cf49.png",
+    "static/media/proj2.c4d36818.png": "/portfolio/static/media/proj2.c4d36818.png",
+    "static/media/proj3.830820b9.png": "/portfolio/static/media/proj3.830820b9.png",
+    "static/media/proj4.9e345f30.png": "/portfolio/static/media/proj4.9e345f30.png",
+    "static/media/proj5.26a01a38.png": "/portfolio/static/media/proj5.26a01a38.png",
+    "static/media/python.1d87178f.png": "/portfolio/static/media/python.1d87178f.png",
+    "static/media/react.ae18f9b4.png": "/portfolio/static/media/react.ae18f9b4.png",
+    "static/media/skills_vector.1fb5f4a4.png": "/portfolio/static/media/skills_vector.1fb5f4a4.png",
+    "static/media/sql.15445d33.png": "/portfolio/static/media/sql.15445d33.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5483d5da.js",
+    "static/js/2.111706bc.chunk.js",
+    "static/css/main.3171e4a1.chunk.css",
+    "static/js/main.b8a67ac7.chunk.js"
+  ]
+}
