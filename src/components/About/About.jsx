@@ -45,8 +45,8 @@ const About = () => {
 
       <FooterLink
         phrase="Check out my "
-        link="projects!"
-        toAdress="/projects"
+        link="work experience!"
+        toAdress="/experience"
       />
       {/* Vector Frame! */}
       <div className="vector-frame">
